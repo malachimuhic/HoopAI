@@ -1,0 +1,2 @@
+# HoopAI
+NBA outcomes predictor

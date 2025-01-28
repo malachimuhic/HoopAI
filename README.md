@@ -1,2 +1,3 @@
 # HoopAI
-NBA outcomes predictor
+NBA outcomes (Win/Loss) predictor
+

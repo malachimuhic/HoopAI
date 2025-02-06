@@ -7,3 +7,5 @@ Suggestions for Improvement: Provide more details on the target audience and spe
   Address potential challenges, such as overfitting or the impact of incomplete or noisy data.
   Expand on plans for a user interface, detailing its functionality (e.g., displaying predictions, visualizing player performance trends).
   Discuss ethical considerations, especially if the model is used in sports betting.
+
+https://docs.python-guide.org/writing/structure/

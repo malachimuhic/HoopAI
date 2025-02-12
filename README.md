@@ -7,3 +7,13 @@ Suggestions for Improvement: Provide more details on the target audience and spe
   Address potential challenges, such as overfitting or the impact of incomplete or noisy data.
   Expand on plans for a user interface, detailing its functionality (e.g., displaying predictions, visualizing player performance trends).
   Discuss ethical considerations, especially if the model is used in sports betting.
+
+
+# nba_api
+This project heavily relies on Swar Patel's nba_api for nba.com:
+  https://github.com/swar/nba_api?tab=readme-ov-file
+
+
+Ranking teams?
+Variance???
+

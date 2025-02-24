@@ -9,3 +9,4 @@ Suggestions for Improvement: Provide more details on the target audience and spe
   Discuss ethical considerations, especially if the model is used in sports betting.
 
 https://docs.python-guide.org/writing/structure/
+https://www.reddit.com/r/nba/comments/g4w5bp/the_nbas_most_valuable_statistic_award_goes_to/

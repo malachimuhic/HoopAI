@@ -17,3 +17,5 @@ This project heavily relies on Swar Patel's nba_api for nba.com:
 Ranking teams?
 Variance???
 
+https://docs.python-guide.org/writing/structure/
+https://www.reddit.com/r/nba/comments/g4w5bp/the_nbas_most_valuable_statistic_award_goes_to/

@@ -1,0 +1,21 @@
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2025 Malachi Muhic. All Rights Reserved.
+
+This software and its associated files (the "Software") are licensed, not sold, to the user ("Licensee") under the following terms:
+
+1. **Grant of License**: The Licensor grants the Licensee a non-exclusive, non-transferable right to use this Software for personal and/or commercial purposes as agreed upon in writing.
+
+2. **Restrictions**:
+   a. Licensee may **not** modify, distribute, sublicense, or reverse-engineer the Software.
+   b. Licensee may **not** use the Software for illegal activities or competitive research.
+   c. Any breach of this agreement will result in termination of the license.
+
+3. **Ownership**: The Software remains the exclusive property of the Licensor.
+
+4. **Disclaimer**: The Software is provided "AS IS" without warranties of any kind. The Licensor is not responsible for any damages or losses resulting from its use.
+
+By using this Software, you agree to these terms.
+
+Malachi Muhic
+mwmuhic@yahoo.com

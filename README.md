@@ -7,7 +7,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lPP1bG8vJhbFGHK5jLk6nwOFgfX5hIgT?usp=sharing)
 
-[[https://github.com/malachimuhic/HoopAI](https://github.com/malachimuhic/HoopAI)](https://youtu.be/MHn5aiprLvg)
+https://youtu.be/MHn5aiprLvg
 
 HoopsAI is a machine learning project designed to predict NBA game outcomes based on historical team performance data.
 Using rolling statistics and feature engineering, HoopsAI builds models to forecast both point differentials and win/loss results for NBA matchups.
